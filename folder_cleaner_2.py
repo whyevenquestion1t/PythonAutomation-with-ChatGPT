@@ -1,3 +1,6 @@
+# this is an example of what ChatGPT can create 
+# This file was created by excecuting the python-chatgpt.py file
+
 import os, shutil, time
 
 # Path of the downloads folder
