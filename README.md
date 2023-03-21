@@ -2,4 +2,4 @@
 ## Powered by ChatGPT
 
 **In order to excecute**
-python3 python-chatgpt.py "your prompt here" "your file name here"
+<python3 python-chatgpt.py "your prompt here" "your file name here">
